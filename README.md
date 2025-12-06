@@ -1,0 +1,66 @@
+# Panic! At The Disco – High Hopes
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Had to have high, high hopes for a living
+Shoot for the stars when I couldn't make a killing
+I'm gonna be that one in a million
+I had to have, high, high hopes
+
+Mama said
+Fulfill the prophecy
+Be something great
+Go make a legacy
+Manifest destiny
+Back in the days
+We wanted everything, wanted everything
+Mama said
+Burn your biographies
+Rewrite your history
+Light up your wildest dreams
+Museum victories, everyday
+We wanted everything, wanted everything
+
+Mama said don't give up, it's a little complicated
+All tied up, no more love and I'd hate to see you waiting
+I got to have high, high hopes for a living
+Shoot for the stars when I couldn't make a killing
+I Didn't have a dime but I always had a vision
+I've got to have high, high hopes
+
+I had to have high, high hopes for a living
+I Didn't know how but I always had a feeling
+I was gonna be that one in a million
+I had to have high, high hopes
+
+Mama said
+It's uphill for oddities
+Stranger crusaders
+Ain't ever wannabes
+The weird and the novelties
+Don't ever change
+We wanted everything, wanted everything
+
+Stay up on that rise
+Stay up on that rise and never come down
+Stay up on that rise
+Stay up on that rise and never come down
+
+Mama said don't give up, it's a little complicated
+All tied up, no more love and I'd hate to see you waiting
+They say it's all been done but they haven't seen the best of me
+I got one good run and it's gonna be a sight to see
+You got to have high, high hopes for a living
+Shoot for the stars when I couldn't make a killing
+Didn't have a dime but I always had a vision
+I had to have high, high hopes
+
+I Had to have high, high hopes for a living
+I Didn't know how but I always had a feeling
+I was gonna be that one in a million
+I had to have high, high hopes
+
+I Had to have high, high hopes
+I Had to have high, high hopes
+```
