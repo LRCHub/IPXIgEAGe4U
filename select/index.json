@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "High Hopes",
   "base_artist": "Panic! At The Disco",
-  "createdAt": "2025-12-06T14:26:13.262649Z",
+  "createdAt": "2026-03-20T11:51:30.213386Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -163,6 +163,15 @@
       "artist": "Panic! At the Disco",
       "has_synced": false,
       "path": "select/pl_01_High_Hopes_Panic!_At_the_Disco.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "High Hopes",
+      "artist": "Panic! At The Disco",
+      "has_synced": false,
+      "path": "select/localdb_01_High_Hopes_Panic!_At_The_Disco.txt",
+      "repo_name": "IPXIgEAGe4U"
     }
   ]
 }
